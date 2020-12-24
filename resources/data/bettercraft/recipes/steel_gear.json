@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "yxy",
+    "x x",
+    "yxy"
+  ],
+  "key":
+  {
+    "x": {"item": "bettercraft:steel_ingot"},
+    "y": {"item": "minecraft:stick"}
+  },
+  "result":
+  {
+    "item": "bettercraft:steel_gear",
+    "count": 1
+  }
+}

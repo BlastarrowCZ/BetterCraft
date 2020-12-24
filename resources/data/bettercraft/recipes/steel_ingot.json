@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bettercraft:steel_grit",
+    "count": 2
+  },
+  "result": "bettercraft:steel_ingot",
+  "experience": 1.0,
+  "cookingtime": 400
+}

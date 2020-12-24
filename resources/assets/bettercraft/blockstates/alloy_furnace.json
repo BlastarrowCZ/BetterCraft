@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "bettercraft:block/alloy_furnace" },
+    "facing=north": { "model": "bettercraft:block/alloy_furnace", "y":  180},
+    "facing=east": { "model": "bettercraft:block/alloy_furnace", "y":  270},
+    "facing=west": { "model": "bettercraft:block/alloy_furnace", "y":  90}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xx",
+    " yx",
+    " y "
+  ],
+  "key":
+  {
+    "x": {"item": "bettercraft:copper_ingot"},
+    "y": {"item": "minecraft:stick"}
+  },
+  "result":
+  {
+    "item": "bettercraft:copper_axe",
+    "count": 1
+  }
+}

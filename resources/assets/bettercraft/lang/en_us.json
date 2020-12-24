@@ -1,0 +1,45 @@
+{
+  "item.bettercraft.steel_sword": "Steel Sword",
+  "item.bettercraft.steel_pickaxe": "Steel Pickaxe",
+  "item.bettercraft.steel_axe": "Steel Axe",
+  "item.bettercraft.steel_shovel": "Steel Shovel",
+  "item.bettercraft.steel_hoe": "Steel Hoe",
+  "item.bettercraft.copper_sword": "Copper Sword",
+  "item.bettercraft.copper_pickaxe": "Copper Pickaxe",
+  "item.bettercraft.copper_axe": "Copper Axe",
+  "item.bettercraft.copper_shovel": "Copper Shovel",
+  "item.bettercraft.copper_hoe": "Copper Hoe",
+  "item.bettercraft.tin_sword": "Tin Sword",
+  "item.bettercraft.tin_pickaxe": "Tin Pickaxe",
+  "item.bettercraft.tin_axe": "Tin Axe",
+  "item.bettercraft.tin_shovel": "Tin Shovel",
+  "item.bettercraft.tin_hoe": "Tin Hoe",
+
+
+  "item.bettercraft.steel_ingot": "Steel Ingot",
+  "item.bettercraft.steel_grit": "Steel Grit",
+  "item.bettercraft.steel_gear": "Steel Gear",
+
+
+  "block.bettercraft.copper_ore": "Copper Ore",
+  "item.bettercraft.copper_ingot": "Copper Ingot",
+
+
+  "block.bettercraft.tin_ore": "Tin Ore",
+  "item.bettercraft.tin_ingot": "Tin Ingot",
+
+
+  "block.bettercraft.steel_block": "Block of Steel",
+  "block.bettercraft.alloy_furnace": "Alloy Furnace",
+  "block.bettercraft.crafter": "Universal",
+
+
+
+
+  "item.bettercraft.steel_helmet": "Steel Helmet",
+  "item.bettercraft.steel_chestplate": "Steel Chestplate",
+  "item.bettercraft.steel_leggings": "Steel Leggings",
+  "item.bettercraft.steel_boots": "Steel Boots",
+
+  "entity.bettercraft.slimey": "Slimey"
+}

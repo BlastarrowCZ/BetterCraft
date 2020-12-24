@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bettercraft:copper_ore",
+    "count": 2
+  },
+  "result": "bettercraft:copper_ingot",
+  "experience": 0.5,
+  "cookingtime": 200
+}
